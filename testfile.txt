@@ -1,5 +1,5 @@
 movie #1 = sholay
 movie #2 = shaan
-movie #3 ="kanahini"
+movie #3 = mr x in bombay
 movie #4 = hum aapke hain kaun
-var s=" ram"
+var s="ram"
