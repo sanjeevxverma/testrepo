@@ -6,4 +6,5 @@ movie #4 = hum aapke hain kaun
 
 var s="rams"
 
-var s="dutta gupta"
+var s="dutta gupta" hi
+chinh
