@@ -1,6 +1,6 @@
 package com.bindu.testobjects;
 
-public class Bakri implements Goat {
+public class Bakri implements Goat, Animal {
 
 	@Override
 	public void eatFood() {

@@ -1,6 +1,6 @@
 package com.bindu.testobjects;
 
-public class Sheru implements Tiger {
+public class Sheru implements Tiger, Animal {
 	
 	public Sheru() {
 		System.out.println("creating sheru");
